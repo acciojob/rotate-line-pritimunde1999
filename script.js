@@ -6,5 +6,6 @@ line.style.height ="2px";
 line.style.backgroundColor ="black";
 line.style.margin ="auto";
 line.style.marginTop ="25%";
+line.style.position= "absolute";
 
 line.style.animation ="rotate 4s linear infinite"
